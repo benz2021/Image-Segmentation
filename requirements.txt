@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+Pillow
+python-pptx
+numpy<2.0.0
+pdf2image
+easyocr
+torch
